@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192300091495",
+    "project_id": "messenger-dd363",
+    "storage_bucket": "messenger-dd363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192300091495:android:fbadb7946225b98f8eecc2",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBadMHeRHI4EIXDPqTfhK3RnlZy6vhDhTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
